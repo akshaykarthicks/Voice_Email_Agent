@@ -21,4 +21,4 @@ A voice-driven email automation system that lets users speak messages and have t
 ## 📂 Project Structure
 
 ![Screenshot 2025-06-05 134323](https://github.com/user-attachments/assets/3ef81dc7-6bcd-42ea-adcc-120d3bfbbc41)
-![Uploading Screenshot 2025-06-05 132318.png…]()
+![Screenshot 2025-06-05 132318](https://github.com/user-attachments/assets/98feabee-2639-41c5-a1cc-bdc13b27715c)
